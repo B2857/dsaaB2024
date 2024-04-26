@@ -68,7 +68,7 @@ public class GUI {
         this.factory = new SeamCarverFactory();
         this.update = true;
 
-        JFrame frame = new JFrame("Karve");
+        JFrame frame = new JFrame("Group22");
         JPanel panel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
 
         // Add the display image showing the image being carved.
